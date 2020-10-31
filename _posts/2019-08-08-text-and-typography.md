@@ -81,7 +81,7 @@ Click the hook will locate the footnote[^footnote].
 
 By default, the image is centered and the image caption can be displayed at the bottom:
 
-![Desktop View](/assets/img/sample/mockup.png)
+![Desktop View](/assets/img/sample/avatar.png)
 _Full screen width and center alignment_
 
 You can change the size of the picture:
